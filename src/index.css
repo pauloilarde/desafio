@@ -7,6 +7,26 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#root {
+  height: 100%;
+}
+
+.nav-link{
+  color: #fff;
+}
+
+.custom-nav-bar{
+  background-color: #e74c3c;
+}
+
+/* componente homescreen */
+
+.home-title {
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
